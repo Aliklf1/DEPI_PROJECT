@@ -1,0 +1,3 @@
+notion: https://www.notion.so/1a17bebbaf7f8026bfc3eff2dc1d1efe?v=1a17bebbaf7f80979aa9000c7d34a325
+kaggle cleaning: https://www.kaggle.com/code/alikhamaf/cleaning-and-exploring-sales-dataset
+kaggle exploring: https://www.kaggle.com/code/alikhamaf/exploratory-analysis-using-pandas-matplotlib
